@@ -20,10 +20,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Azure Virtual Machine
 - osTicket Installation files
 - Heidi SQL 
-- Item 4
-- Item 5
 
 <h2>Installation Steps</h2>
+Welcome to my first detailed IT tutorial! We'll start by setting up a Virtual Machine (VM) through the Microsoft Azure portal (portal.azure.com). A VM acts as a remote computer, and using one helps safeguard our physical machine in case of any issues, while also providing a fresh, isolated environment to repeatedly replicate the lab setup. First, we’ll create a resource group named "osTicket." Then, we will proceed to create a VM with 2 to 4 CPUs—I'll be using a configuration with 4 CPUs for this example. 
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
